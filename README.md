@@ -84,4 +84,4 @@ This project is licensed under the [MIT License](LICENSE).
 This project is licensed under the **MIT** License.
 
 ---
-🔗 GitHub Repo: https://github.com/selvaganesh19/Movie-analyzer-with-gener-predection
+🔗 GitHub Repo: https://github.com/selvaganesh19/Movie-analyzer-with-genre-predection
