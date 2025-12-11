@@ -21,7 +21,7 @@ This project leverages machine learning and external APIs to analyze movies and 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/selvaganesh19/Movie-analyzer-with-gener-predection.git
+   git clone https://github.com/selvaganesh19/Movie-analyzer-with-genre-predection.git
    cd Movie-analyzer-with-gener-predection
    ```
 
