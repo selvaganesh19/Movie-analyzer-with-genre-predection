@@ -1,6 +1,6 @@
-# Movie-analyzer-with-gener-predection
+# Movie-analyzer-with-gener-prediction
 
-# 🎬 Movie-analyzer-with-gener-predection
+# 🎬 Movie-analyzer-with-genre-predection
 
 Welcome to **Movie-analyzer-with-gener-predection**!  
 This project leverages machine learning and external APIs to analyze movies and predict their genres. Powered by Streamlit, it provides an interactive web interface for users to input movie details and get insightful analysis and predictions.  
