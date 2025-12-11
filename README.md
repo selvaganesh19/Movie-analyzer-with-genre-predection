@@ -1,4 +1,4 @@
-# Movie-analyzer-with-gener-prediction
+# Movie-analyzer-with-genre-predection
 
 # 🎬 Movie-analyzer-with-genre-predection
 
